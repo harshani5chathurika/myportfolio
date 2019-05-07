@@ -302,9 +302,9 @@ figure {
           font-weight: 700; }
           @media screen and (max-width: 768px) {
             #colorlib-hero .flexslider .slider-text > .slider-text-inner h1 {
-              font-size: 35px;
+              font-size: 28px;
 	  	text-align: left;
-		margin-left: 2px; } }
+		margin-left: 5px; } }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h2 {
           font-size: 18px;
           line-height: 1.5;
