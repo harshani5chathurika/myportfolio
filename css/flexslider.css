@@ -30,7 +30,7 @@
 .slides > li,
 .flex-control-nav,
 .flex-direction-nav {
-  margin: 1;
+  margin: 0;
   padding: 2;
   list-style: none;
 }
