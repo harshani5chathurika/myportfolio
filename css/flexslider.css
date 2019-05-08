@@ -30,8 +30,8 @@
 .slides > li,
 .flex-control-nav,
 .flex-direction-nav {
-  margin: 0;
-  padding: 0;
+  margin: 2;
+  padding: 2;
   list-style: none;
 }
 .flex-pauseplay span {
